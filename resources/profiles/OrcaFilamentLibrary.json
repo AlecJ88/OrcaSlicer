@@ -1,6 +1,6 @@
 {
 	"name": "OrcaFilamentLibrary",
-	"version": "02.04.00.22",
+	"version": "02.04.00.23",
 	"force_update": "0",
 	"description": "Orca Filament Library",
 	"filament_list": [
@@ -411,6 +411,10 @@
 		{
 			"name": "Generic PCTG @System",
 			"sub_path": "filament/Generic PCTG @System.json"
+		},
+		{
+			"name": "Pro PCTG ESD @base",
+			"sub_path": "filament/3D-Fuel/3D-Fuel Pro PCTG-ESD @base.json"
 		},
 		{
 			"name": "Generic PE @System",
@@ -1835,6 +1839,10 @@
 		{
 			"name": "COEX PCTG PRIME @System",
 			"sub_path": "filament/COEX/COEX PCTG PRIME @System.json"
+		},
+		{
+			"name": "Pro PCTG ESD @System",
+			"sub_path": "filament/3D-Fuel/3D-Fuel Pro PCTG-ESD @System.json"
 		},
 		{
 			"name": "Goofoo PE @base",
